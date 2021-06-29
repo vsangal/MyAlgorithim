@@ -3,7 +3,7 @@ package problems;
 import java.util.HashSet;
 import java.util.Set;
 
-public class CovertSentenceToUppercase {
+public class CovertEachWordinSentenceToUppercase {
 
 
 	public static void main (String[] argv) {
