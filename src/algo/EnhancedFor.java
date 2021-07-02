@@ -1,5 +1,5 @@
 package algo;
-
+/* Another comment */
 public class EnhancedFor
 {
 
